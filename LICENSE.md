@@ -1,4 +1,4 @@
-# 
+# Personnalisé AutoGPT scripts. Avec support multilingue et ingénierie de prompts — optimisé pour des performances et une efficacité maximales.
 
 
 
